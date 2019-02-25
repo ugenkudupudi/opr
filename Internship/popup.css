@@ -1,0 +1,33 @@
+.name{
+	font-size: 36px;
+}
+.resume{
+	text-align: center;
+	border:1px solid black;
+	padding: 10px;
+	border-radius: 55%;
+	background-color: white;
+}
+#display{
+	font-size: 28px;
+	margin-left: 3%;
+	color: white;
+	font-family: 'Obitron';
+}
+.adjust{
+	height: 8%;
+	border:1.5px solid white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+body{
+	background-image: url("images/Deep Space.jpg");
+}
+.ola{
+	color: white;
+	font-family: arial;
+}
