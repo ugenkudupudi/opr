@@ -4,6 +4,6 @@ One page resumes are fast becoming the rage in hiring circle's, with candidates 
 
 For questions and feedback please mail to **ugen [at] kudupudi [dot] com**
 
-**Releasing on 15th March, 2019**
+**Releasing on 15th June, 2019**
 
 **Sponsers Welcome**
